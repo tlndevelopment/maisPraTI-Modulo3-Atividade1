@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(230, 251, 197);
+}
+
+section {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.footer-nav {
+    background-color: rgb(52, 79, 7);
+}
+
+.footer-nav a, .footer-nav span {
+    color: aliceblue!important;
+}
+
+.footer-nav {
+    justify-content: center;
+}
+
+.footer-nav a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.fontes li {
+    list-style: none;
+}
+
+.fontes a {
+    text-decoration: none;
+    color: rgb(3, 77, 3);
+}
+
+.fontes a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
