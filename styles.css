@@ -38,3 +38,14 @@ section {
     text-decoration: underline;
     font-weight: bold;
 }
+
+.images img {
+    width: 30%;
+    margin: 5px;
+}
+
+@media (max-width: 768px) {
+    .images img {
+        width: 100%;
+    }
+}
